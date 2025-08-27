@@ -1,7 +1,7 @@
-[+] Basic SWHE - Injector
+Basic SWHE - Injector
 
-[+] SetWindowsHookEx
-[+] Dll With Hook
-[+] Reuploaded
+1. SetWindowsHookEx
+2. Dll With Hook
+3. Reuploaded
 
 Discord -> https://discord.gg/pY6nDej76m
